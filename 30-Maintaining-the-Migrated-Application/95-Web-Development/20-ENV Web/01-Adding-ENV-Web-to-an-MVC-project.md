@@ -1,6 +1,6 @@
 This article explains how to add the ENV.Web functionality to an MVC project.
 
-It assumes that you've followed the steps outlined in [Configuring an MVC Project with to reuse Migrated Applications](configuring-an-mvc-project-to-reuse-migrated-applications.html)
+It assumes that you've followed the steps outlined in [Configuring an MVC Project to reuse Migrated Applications](/configuring-an-mvc-project-to-reuse-migrated-applications.html)
 
 1. Download the `ENV.Web.dll` from the [github repo](https://github.com/FireflyMigration/ENV.Web/releases/tag/1.0.0.14) 
 2. Place `ENV.Web.dll` in the lib folder.
